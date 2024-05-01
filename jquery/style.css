@@ -1,0 +1,19 @@
+.error {
+  border: 1px solid red;
+}
+#todos li {
+  list-style: lower-greek;
+}
+#todos li:hover {
+  color: rgb(13, 27, 66);
+
+  cursor: wait;
+}
+#table td {
+  text-decoration: dashed;
+}
+#table td:hover {
+  color: rgb(13, 27, 66);
+
+  cursor: wait;
+}
